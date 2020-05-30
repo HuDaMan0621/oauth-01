@@ -8,7 +8,10 @@
     "dotenv": "^8.2.0",
     "esm": "^3.2.25",
     "express": "^4.17.1",
-    "node-fetch": "^2.6.0"
+    "fetch": "^1.1.0",
+    "node": "^14.3.0",
+    "node-fetch": "^2.6.0",
+    "passport-github": "^1.1.0"
   },
   "devDependencies": {},
   "scripts": {
